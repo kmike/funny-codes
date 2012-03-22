@@ -67,7 +67,7 @@ class FunnyCodes(object):
 
 
 
-class RuFunnyCodes(object):
+class RuFunnyCodes(FunnyCodes):
     """
     Класс для генерации случайных номеров по шаблону.
     """

@@ -35,4 +35,3 @@ Usage
     >>> my_codes.expected_collisions(10000)
     2.499235797673464
 
- 
